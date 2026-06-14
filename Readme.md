@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/main?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20My%20Profile&fontAlignY=40&fontSize=50" width="100%" alt="Header Banner" />
+  <img src="https://i.top4top.io/s_3815ku3ab1.jpg" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello+My+Name;VinZephyrine;Full Stack Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello+My+Name;VinZephyrine;Full+Stack+Developer" />
 </p>
 
 ## 👤 About Me
