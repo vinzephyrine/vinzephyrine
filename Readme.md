@@ -1,10 +1,12 @@
-# 👋 Halo! Saya [Nama Anda]
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/main?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20My%20Profile&fontAlignY=40&fontSize=50" width="100%" alt="Header Banner" />
 </p>
 
-## 👤 Tentang Saya
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello+My+Name;VinZephyrine;Full Stack Developer" />
+</p>
+
+## 👤 About Me
 * 🚀 **Fokus Saat Ini:** Sedang mendalami pengembangan aplikasi / pemrograman.
 * 🌱 **Sedang Belajar:** Teknologi baru, framework modern, dan best practices.
 * 💬 **Tanya Saya Tentang:** Apa saja yang berkaitan dengan teknologi atau proyek yang sedang saya kerjakan!
@@ -12,7 +14,7 @@
 
 ---
 
-## 🌐 Hubungi Saya / Ikuti Perjalanan Saya
+## 🌐 Contact Page
 
 Di bawah ini adalah kontak resmi dan media sosial tempat Anda bisa berinteraksi langsung dengan saya:
 
@@ -30,7 +32,7 @@ Di bawah ini adalah kontak resmi dan media sosial tempat Anda bisa berinteraksi 
 
 ---
 
-## 🛠️ Teknologi & Tools Kemampuan
+## 🛠️ Teknologi & Skills
 Berikut adalah beberapa teknologi yang sering saya gunakan dalam proyek-proyek saya:
 
 <p align="left">
@@ -47,7 +49,7 @@ Untuk melihat aktivitas dan kontribusi saya secara real-time:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vinzephyrine&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinzephyrine&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
