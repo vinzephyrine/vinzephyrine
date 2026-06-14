@@ -1,63 +1,127 @@
-<p align="center">
-  <img src="https://e.top4top.io/p_38161csie1.jpg" width="100%" alt="Header Banner" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello+My+Name;VinZephyrine;Full+Stack+Developer" />
-</p>
+<img src="https://e.top4top.io/p_38161csie1.jpg" width="100%" alt="Header Banner" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=580&lines=Hello+My+Name;+VinZephyrine;Full+Stack+Developer)](https://github.com/vinzephyrine)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=vinzephyrine&style=flat-square&color=00FFFF&labelColor=000000&label=PROFILE+VIEWS)
+&ensp;
+[![GitHub Followers](https://img.shields.io/github/followers/vinzephyrine?style=flat-square&color=00FFFF&labelColor=000000&label=FOLLOWERS&logo=github&logoColor=00FFFF)](https://github.com/vinzephyrine?tab=followers)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
 
 ## 👤 About Me
-* 🚀 **Fokus Saat Ini:** Sedang mendalami pengembangan aplikasi / pemrograman.
-* 🌱 **Sedang Belajar:** Teknologi baru, framework modern, dan best practices.
-* 💬 **Tanya Saya Tentang:** Apa saja yang berkaitan dengan teknologi atau proyek yang sedang saya kerjakan!
-* ⚡ **Fakta Unik:** Saya sangat suka mengeksplorasi tools baru untuk meningkatkan produktivitas.
 
----
+```vue
+<template>
+  <div class="profile">
 
-## 🌐 Contact Page
+    <h1>{{ name }}</h1>
+    <p>{{ tagline }}</p>
 
-Di bawah ini adalah kontak resmi dan media sosial tempat Anda bisa berinteraksi langsung dengan saya:
+    <section v-for="item in about" :key="item.label">
+      <span class="label">{{ item.label }}</span>
+      <span class="value">{{ item.value }}</span>
+    </section>
 
-<p align="left">
-  <a href="https://t.me/yat1mlau" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Personal" />
-  </a>
-  <a href="https://t.me/vinzxcommnty" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram_Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
-  </a>
-  <a href="https://instagram.com/rfkaansyah_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+  </div>
+</template>
 
----
+<script setup>
+const name    = "VinZephyrine"
+const tagline = "A beginner who codes with curiosity."
 
-## 🛠️ Teknologi & Skills
-Berikut adalah beberapa teknologi yang sering saya gunakan dalam proyek-proyek saya:
+const about = [
+  { label: "username",  value: "@vinzephyrine"                          },
+  { label: "location",  value: "Indonesia"                              },
+  { label: "status",    value: "Still learning — never stopping"        },
+  { label: "focus",     value: "Web Dev · Bot · Automation"             },
+  { label: "motto",     value: "Start small. Ship it. Improve later."   },
+]
+</script>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,ts,nodejs,python,linux" alt="My Skills" />
-  </a>
-</p>
+​🚀 Fokus Saat Ini: Sedang mendalami pengembangan aplikasi / pemrograman.
+​🌱 Sedang Belajar: Teknologi baru, framework modern, dan best practices.
+​💬 Tanya Saya Tentang: Apa saja yang berkaitan dengan teknologi atau proyek yang sedang saya kerjakan!
+​⚡ Fakta Unik: Saya sangat suka mengeksplorasi tools baru untuk meningkatkan produktivitas.
+​🛠️ My Skills
+​A beginner's toolkit — still growing every day.
+​<div align="center">
+​Markup & Styling
+​<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
 
----
+<sub><b>HTML</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
 
-## 📊 Statistik GitHub
+<sub><b>CSS</b></sub>
+</td>
+</tr>
+</table>
+​Programming Languages
+​<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
 
-Untuk melihat aktivitas dan kontribusi saya secara real-time:
+<sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinzephyrine&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinzephyrine&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
+<sub><b>Python</b></sub>
+</td>
+</tr>
+</table>
+​Tools & Platform
+​<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinzephyrine&layout=compact&theme=radical" alt="Top Languages" width="60%" />
-</p>
-
----
-
-<p align="center">
-  <i>Terima kasih sudah berkunjung! Jangan ragu untuk memberikan star ⭐ pada repositori saya jika Anda menyukainya.</i>
-</p>
+<sub><b>GitHub</b></sub>
+</td>
+</tr>
+</table>
+​</div>
+​📊 GitHub Stats
+​<div align="center">
+​<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vinzephyrine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=vinzephyrine&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=ffffff" />
+​<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinzephyrine&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&langs_count=6" />
+​</div>
+​📅 Contribution Graph
+​<div align="center">
+Activity Graph
+​</div>
+​🌐 Connect With Me
+​<div align="center">
+​<a href="https://t.me/yat1mlau" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=black" height="36"/>
+</a>
+ 
+<a href="https://t.me/vinzxcommnty" target="_blank">
+<img src="https://img.shields.io/badge/Channel_Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=black" height="36"/>
+</a>
+ 
+<a href="https://instagram.com/rfkaansyah_" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-00FFFF?style=for-the-badge&logo=instagram&logoColor=black" height="36"/>
+</a>
+​</div>
+​<div align="center">
+​<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF,000000&height=100&section=footer" />
+​</div>
