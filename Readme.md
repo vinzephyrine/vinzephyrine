@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://e.top4top.io/p_38161csie1.jpg" width="100%" alt="Header Banner" />
+<img src="https://e.top4top.io/p_38161csie1.jpg" width="500" alt="Header Banner" />
 
 <br/>
 
@@ -23,20 +23,6 @@
 ## 👤 About Me
 
 ```vue
-<template>
-  <div class="profile">
-
-    <h1>{{ name }}</h1>
-    <p>{{ tagline }}</p>
-
-    <section v-for="item in about" :key="item.label">
-      <span class="label">{{ item.label }}</span>
-      <span class="value">{{ item.value }}</span>
-    </section>
-
-  </div>
-</template>
-
 <script setup>
 const name    = "VinZephyrine"
 const tagline = "A beginner who codes with curiosity."
@@ -45,7 +31,7 @@ const about = [
   { label: "username",  value: "@vinzephyrine"                          },
   { label: "location",  value: "Indonesia"                              },
   { label: "status",    value: "Still learning — never stopping"        },
-  { label: "focus",     value: "Developer · Bot · Apk"                  },
+  { label: "focus",     value: "Web Dev · Bot · Automation"             },
   { label: "motto",     value: "Start small. Ship it. Improve later."   },
 ]
 </script>
@@ -69,17 +55,14 @@ A beginner's toolkit — still growing every day.
 
 Markup & Styling
 
-Markup & Styling
 <table><tr><td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/> <sub><b>HTML</b></sub></td><td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/> <sub><b>CSS</b></sub></td></tr></table>
 
 Programming Languages
 
-Programming Languages
 <table><tr><td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/> <sub><b>JavaScript</b></sub></td><td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/> <sub><b>Python</b></sub></td></tr></table>
 
 Tools & Platform
 
-Tools & Platform
 <table><tr><td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/> <sub><b>GitHub</b></sub></td></tr></table>
 
 </div>
@@ -93,14 +76,6 @@ Tools & Platform
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=vinzephyrine&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=ffffff" />
   <br/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinzephyrine&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&langs_count=6" />
-</div>
-
----
-
-📅 Contribution Graph
-
-<div align="center">
-  Activity Graph
 </div>
 
 ---
