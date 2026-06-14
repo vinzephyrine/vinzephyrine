@@ -88,7 +88,7 @@ Tools & Platform
   </a>
    
   <a href="https://t.me/vinzxcommnty" target="_blank">
-    <img src="https://img.shields.io/badge/Channel_Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=black" height="36"/>
+    <img src="https://img.shields.io/badge/Channel-00FFFF?style=for-the-badge&logo=telegram&logoColor=black" height="36"/>
   </a>
    
   <a href="https://instagram.com/rfkaansyah_" target="_blank">
