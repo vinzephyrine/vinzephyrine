@@ -45,7 +45,7 @@ const about = [
   { label: "username",  value: "@vinzephyrine"                          },
   { label: "location",  value: "Indonesia"                              },
   { label: "status",    value: "Still learning — never stopping"        },
-  { label: "focus",     value: "Web Dev · Bot · Automation"             },
+  { label: "focus",     value: "Developer · Bot · Apk     "             },
   { label: "motto",     value: "Start small. Ship it. Improve later."   },
 ]
 </script>
