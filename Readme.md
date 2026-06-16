@@ -1,6 +1,15 @@
 <div align="center">
 
-<img src="https://e.top4top.io/p_38161csie1.jpg" width="500" alt="Header Banner" />
+```
+░██    ░██ ░██████░███    ░██ ░█████████ 
+░██    ░██   ░██  ░████   ░██       ░██  
+░██    ░██   ░██  ░██░██  ░██      ░██   
+░██    ░██   ░██  ░██ ░██ ░██    ░███    
+ ░██  ░██    ░██  ░██  ░██░██   ░██      
+  ░██░██     ░██  ░██   ░████  ░██       
+   ░███    ░██████░██    ░███ ░█████████ 
+                                         
+```
 
 <br/>
 
@@ -22,28 +31,20 @@
 
 ## 👤 About Me
 
-```vue
-<script setup>
-const name    = "VinZephyrine"
-const tagline = "A beginner who codes with curiosity."
-
-const about = [
-  { label: "username",  value: "@vinzephyrine"                          },
-  { label: "location",  value: "Indonesia"                              },
-  { label: "status",    value: "Still learning — never stopping"        },
-  { label: "focus",     value: "Web Dev · Bot · Automation"             },
-  { label: "motto",     value: "Start small. Ship it. Improve later."   },
-]
-</script>
+```js
+const Lann = {
+  name      : "Melvin",
+  alias     : "VinZephyrine",
+  location  : "Indonesia 🇮🇩 - Medan",
+  birthday    : "2010-17-06",
+  stack     : ["JavaScript", "HTML", "CSS", "Python"],
+  hobby     : "Coli",
+  contact   : {
+    telegram  : "https://t.me/yat1mlau",
+    channel : "https://t.me/vinzxcommnty",
+  }
+};
 ```
-
-🚀 Fokus Saat Ini: Sedang mendalami pengembangan aplikasi / pemrograman.
-
-🌱 Sedang Belajar: Teknologi baru, framework modern, dan best practices.
-
-💬 Tanya Saya Tentang: Apa saja yang berkaitan dengan teknologi atau proyek yang sedang saya kerjakan!
-
-⚡ Fakta Unik: Saya sangat suka mengeksplorasi tools baru untuk meningkatkan produktivitas.
 
 ---
 
@@ -69,17 +70,6 @@ Tools & Platform
 
 ---
 
-📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vinzephyrine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=vinzephyrine&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=ffffff" />
-  <br/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinzephyrine&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&langs_count=6" />
-</div>
-
----
-
 🌐 Connect With Me
 
 <div align="center">
@@ -88,7 +78,7 @@ Tools & Platform
   </a>
    
   <a href="https://t.me/vinzxcommnty" target="_blank">
-    <img src="https://img.shields.io/badge/Channel-00FFFF?style=for-the-badge&logo=telegram&logoColor=black" height="36"/>
+    <img src="https://img.shields.io/badge/Channel_Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=black" height="36"/>
   </a>
    
   <a href="https://instagram.com/rfkaansyah_" target="_blank">
