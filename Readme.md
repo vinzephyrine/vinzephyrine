@@ -30,7 +30,7 @@
 ## 👤 About Me
 
 ```js
-const Lann = {
+const Vinz = {
   name      : "Melvin",
   alias     : "VinZephyrine",
   location  : "Indonesia 🇮🇩 - Medan",
