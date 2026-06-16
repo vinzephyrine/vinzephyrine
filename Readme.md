@@ -7,7 +7,6 @@
 ╚██╗ ██╔╝██║██║╚██╗██║ ███╔╝  
  ╚████╔╝ ██║██║ ╚████║███████╗
   ╚═══╝  ╚═╝╚═╝  ╚═══╝╚══════╝
-                              
 ```
 
 <br/>
@@ -35,7 +34,7 @@ const Lann = {
   name      : "Melvin",
   alias     : "VinZephyrine",
   location  : "Indonesia 🇮🇩 - Medan",
-  birthday    : "2010-17-06",
+  birthday   : "2010-17-06",
   stack     : ["JavaScript", "HTML", "CSS", "Python"],
   hobby     : "Coli",
   contact   : {
