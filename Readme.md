@@ -11,7 +11,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=580&lines=Hey+there!+I'm+VinZephyrine;A+Full+Stack+Developer;Just+a+curious+coder;Nice+to+meet+you!+👋)](https://github.com/vinzephyrine)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=580&lines=Hey+there!+I'm+VinZephyrine;I'm+a+beginner+coder+🚀;Nice+to+meet+you!+👋)](https://github.com/vinzephyrine)
 
 <br/>
 
