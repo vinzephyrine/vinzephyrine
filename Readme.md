@@ -39,7 +39,7 @@ const Lann = {
   hobby     : "Coli",
   contact   : {
     telegram  : "https://t.me/yat1mlau",
-    channel : "https://t.me/vinzxcommnty",
+    channel   : "https://t.me/vinzxcommnty",
   }
 };
 ```
